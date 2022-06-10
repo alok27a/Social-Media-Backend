@@ -8,7 +8,10 @@
 # Install dependencies
 npm install
 
-# Edit the default.json file with your mongoURI and baseUrl
+# Add mongoURI, port and JWT_SECRET in .env file
+OR
+# Edit the default.json file with your mongoURI, port and JWT_SECRET
+OR
 # Use production.json in production env
 
 # Run
