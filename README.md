@@ -62,6 +62,3 @@ Desc: Follow a user
 }<br>
 Desc: Unfollow a user
 
-## Endpoints for post 
-
-//TODO
